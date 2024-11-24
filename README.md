@@ -56,3 +56,8 @@ cp google-chrome.desktop ~/Desktop/
 Now, you'll have a shortcut on your desktop that you can double-click to start Google Chrome.
 
 That's it!
+
+
+IZZY
+
+
